@@ -72,16 +72,16 @@ partial class Form1
         this.txtCourseName.TabIndex = 3;
         // 
         // Form1
-        //
+        // 
         this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-        this.ClientSize = new System.Drawing.Size(800, 450);
+        this.ClientSize = new System.Drawing.Size(900, 500);
         this.Controls.Add(this.txtCourseName);
         this.Controls.Add(this.lblCourseName);
         this.Controls.Add(this.txtStudentName);
         this.Controls.Add(this.lblStudentName);
         this.Name = "Form1";
-        this.Text = "Student App";
+        this.Text = "Student App - Resolved Merge Conflict";
         this.ResumeLayout(false);
         this.PerformLayout();
     }
