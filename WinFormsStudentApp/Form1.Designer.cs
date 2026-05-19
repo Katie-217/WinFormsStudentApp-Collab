@@ -55,11 +55,11 @@ partial class Form1
         // 
         this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-        this.ClientSize = new System.Drawing.Size(800, 450);
+        this.ClientSize = new System.Drawing.Size(900, 500);
         this.Controls.Add(this.txtStudentName);
         this.Controls.Add(this.lblStudentName);
         this.Name = "Form1";
-        this.Text = "Student App";
+        this.Text = "Student Application - Modified by Student B";
         this.ResumeLayout(false);
         this.PerformLayout();
     }
